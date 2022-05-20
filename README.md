@@ -3,7 +3,7 @@
 #
 
 #### 💚About Me
--  🌱 I’m currently learning JavaScript, React, jQuery, Java, MongoDB, MySQL, HTML, CSS** 
+-  🌱 I’m currently learning JavaScript, React, jQuery, Java, MongoDB, MySQL, HTML, CSS.
 -  🎓 I’m currently student at SAIT majoring in Information Technology.
 -  📫 How to reach me: lauren.sung23@gmail.com 
 
